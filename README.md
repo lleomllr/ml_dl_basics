@@ -1,1 +1,1 @@
-Computer Vision Machine Learning & Deep Learning algorithms
+learning Computer Vision - Machine Learning & Deep Learning algorithms
