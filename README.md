@@ -1,1 +1,1 @@
-learning Machine Learning & Deep Learning basics algorithms
+learning Machine Learning & Deep Learning
